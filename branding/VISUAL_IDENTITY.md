@@ -29,7 +29,7 @@ Use these exact hex codes for consistency across your brand and projects like Ta
 3. Create a canvas of **1500x500 pixels**.
 4. Drop in the background image.
 5. Add the typography on the left side:
-   - Subtitle: `<QA Engineer /> turned <AI & Extension Builder />` (`Fira Code`, Astro Grey).
+   - Subtitle: `<Software Builder /> & <AI Product Creator />` (`Fira Code`, Astro Grey).
    - Main Title: **Piyush** (`Inter`, Pure White).
-   - Tagline: "Building intelligent browser products." (`Inter`, Astro Grey).
+   - Tagline: "Building software that solves real problems." (`Inter`, Astro Grey).
 6. Export as a high-quality `PNG` and save as `assets/banner/banner.png`.

@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://github.com/Piyush-data">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%E2%86%92+AI+Agent+Developer;Building+Intelligent+Browser+Extensions;Crafting+Production-Ready+Software;Turning+Ideas+into+AI-Powered+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Software+Builder+%26+AI+Developer;Building+Tools+That+Solve+Real+Problems;Crafting+Production-Ready+Software;Turning+Ideas+into+AI-Powered+Products" alt="Typing SVG" />
   </a>
 </p>
 
-**Software Quality Assurance** turned **AI Agent & Browser Extension Builder**.  
-I specialize in creating polished, high-converting, and intelligent tools that live right in your browser.
+**Software Builder** utilizing AI-assisted development to rapidly ship products.  
+I specialize in creating intelligent automation systems, AI agents, and practical software that solves real-world problems.
 
 <!-- Social Links (Update URLs to uncomment) -->
 <!--
@@ -29,12 +29,12 @@ I specialize in creating polished, high-converting, and intelligent tools that l
 
 ## 🌟 About Me
 
-My journey began in **Quality Assurance**, where I mastered the art of breaking software and understanding exactly what makes a product robust, reliable, and user-friendly. Today, I'm leveraging that rigorous quality-first mindset to **build** software—specifically AI Agents, Chrome/Edge Extensions, and client-side AI applications.
+I am a builder. I enjoy using AI-assisted development ("vibe coding") to rapidly design, architect, and ship high-quality products. Whether it's an AI agent, a desktop application, a SaaS platform, or a browser extension, my focus is always on building software that makes work easier and solves real problems.
 
-**Current Focus:**
-- 🧠 Building Client-side AI Applications using Chrome's Built-in AI APIs.
-- 🧩 Architecting high-performance, modular Manifest V3 Browser Extensions.
-- 🤖 Developing Autonomous AI Agents for productivity.
+**Currently Building:**
+- 🧠 Intelligent AI Agents & Automation Systems.
+- 🛠️ Developer Tools & Productivity Software.
+- 🧩 High-performance Browser Applications.
 
 ---
 
