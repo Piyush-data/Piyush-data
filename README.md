@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Placeholder -->
-<img src="assets/banner/banner.png" alt="Piyush | AI Agent & Extension Builder" width="100%" />
+<!-- Banner Placeholder (Upload assets/banner/banner.png to uncomment) -->
+<!-- <img src="assets/banner/banner.png" alt="Piyush | AI Agent & Extension Builder" width="100%" /> -->
 
 # 🚀 Hello, I'm Piyush
 
@@ -14,11 +14,14 @@
 **Software Quality Assurance** turned **AI Agent & Browser Extension Builder**.  
 I specialize in creating polished, high-converting, and intelligent tools that live right in your browser.
 
+<!-- Social Links (Update URLs to uncomment) -->
+<!--
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00D2FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
 </p>
+-->
 
 </div>
 
@@ -38,7 +41,7 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 ## 🚀 Featured Product: TabComet
 
 <div align="center">
-  <img src="assets/logos/tabcomet_logo.png" alt="TabComet Logo" width="120" />
+  <!-- <img src="assets/logos/tabcomet_logo.png" alt="TabComet Logo" width="120" /> -->
   <h3>TabComet - The Ultimate Space-Themed Tab Manager</h3>
   <p><i>Navigate your tabs at lightspeed.</i></p>
 
@@ -51,7 +54,7 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
   
   <br/><br/>
   
-  <img src="assets/screenshots/tabcomet_showcase.gif" alt="TabComet Demo" width="800" style="border-radius: 8px;" />
+  <!-- <img src="assets/screenshots/tabcomet_showcase.gif" alt="TabComet Demo" width="800" style="border-radius: 8px;" /> -->
 </div>
 
 #### ✨ Core Features
@@ -70,7 +73,6 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A0A0A?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Chrome AI APIs](https://img.shields.io/badge/Chrome_AI_APIs-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Browser Automation](https://img.shields.io/badge/Browser_Automation-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Browser Extension Ecosystem
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
@@ -78,6 +80,7 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 ![Manifest V3](https://img.shields.io/badge/Manifest_V3-FFCD46?style=for-the-badge&logo=google-chrome&logoColor=black)
 
 ### Programming & Core Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,6 +91,7 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Test Planning](https://img.shields.io/badge/Test_Planning-4B0082?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-DC143C?style=for-the-badge&logo=jira&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Analytics & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -99,6 +103,8 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 
 ## 📈 GitHub Stats
 
+<!-- GitHub Stats (Uncomment once stats correctly generate for your username) -->
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-data&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
@@ -109,6 +115,7 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
+-->
 
 ---
 
@@ -130,7 +137,7 @@ My journey began in **Quality Assurance**, where I mastered the art of breaking 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Piyush-data/count.svg" alt="Visitor Count" />
+  <!-- <img src="https://profile-counter.glitch.me/Piyush-data/count.svg" alt="Visitor Count" /> -->
   <br/><br/>
   <i>"Quality isn't just about finding bugs; it's about engineering products that don't have them in the first place."</i>
 </div>
