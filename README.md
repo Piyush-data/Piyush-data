@@ -115,14 +115,39 @@
 
 <br/>
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-data&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-data&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF" alt="Top Languages" width="48%" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>⭐ GitHub Stats</b><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Piyush-data&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF&cache_seconds=86400" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <b>💻 Top Languages</b><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-data&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF&cache_seconds=86400" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush-data&color=00D2FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <b>📈 Contribution Graph</b><br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-data&bg_color=transparent&color=00D2FF&line=00D2FF&point=00D2FF&hide_border=true&cache=86400" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>🔥 Streak Stats</b><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-data&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF&sideNums=c9d1d9&sideLabels=c9d1d9&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <b>👀 Profile Metrics</b><br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=Piyush-data&color=00D2FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
