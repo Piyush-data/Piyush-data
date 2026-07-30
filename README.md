@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Banner Placeholder (Upload assets/banner/banner.png to uncomment) -->
-<!-- <img src="assets/banner/banner.png" alt="Piyush | AI Agent & Extension Builder" width="100%" /> -->
+<img src="assets/banner/TabComet_21-9.png" alt="Piyush | Software Builder & AI Developer" width="100%" />
 
 # 🚀 Hello, I'm Piyush
 
 <p align="center">
   <a href="https://github.com/Piyush-data">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Software+Builder+%26+AI+Developer;Building+Tools+That+Solve+Real+Problems;Crafting+Production-Ready+Software;Turning+Ideas+into+AI-Powered+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Product+Builder;AI-Assisted+Developer;QA+Professional+Building+Products;Turning+Ideas+into+Working+Software;Automation+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-**Software Builder** utilizing AI-assisted development to rapidly ship products.  
-I specialize in creating intelligent automation systems, AI agents, and practical software that solves real-world problems.
+**QA Professional & Software Builder** utilizing AI-assisted development ("vibe coding") to rapidly ship products.  
+I focus on designing products, defining features, testing, debugging, and shipping working software.
 
 <!-- Social Links (Update URLs to uncomment) -->
 <!--
@@ -29,7 +28,9 @@ I specialize in creating intelligent automation systems, AI agents, and practica
 
 ## 🌟 About Me
 
-I am a builder. I enjoy using AI-assisted development ("vibe coding") to rapidly design, architect, and ship high-quality products. Whether it's an AI agent, a desktop application, a SaaS platform, or a browser extension, my focus is always on building software that makes work easier and solves real problems.
+I enjoy turning ideas into working software by combining **product thinking, software quality, AI-assisted development, rapid iteration,** and **continuous learning**. 
+
+I may not write every line of code manually, but I excel at defining features, writing detailed requirements, reviewing AI-generated code, debugging, and testing applications to ensure they are robust and production-ready. My GitHub is my authentic builder portfolio—everything you see here represents real projects I have shipped and can confidently discuss.
 
 **Currently Building:**
 - 🧠 Intelligent AI Agents & Automation Systems.
@@ -67,7 +68,7 @@ I am a builder. I enjoy using AI-assisted development ("vibe coding") to rapidly
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Building Projects Using
 
 ### AI & Agents
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
