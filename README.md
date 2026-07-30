@@ -1,51 +1,38 @@
 <div align="center">
 
-<!-- Banner Placeholder (Upload assets/banner/banner.png to uncomment) -->
-<!-- <img src="assets/banner/banner.png" alt="Piyush | Product Builder & AI Developer" width="100%" /> -->
+# Piyush Kumar
+**Product-Minded QA Automation Engineer & Software Builder**
 
-# 🚀 Hello, I'm Piyush
-
-<p align="center">
-  <a href="https://github.com/Piyush-data">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Product+Builder;AI-Assisted+Developer;QA+Professional+Building+Products;Turning+Ideas+into+Working+Software;Automation+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-**QA Professional & Software Builder** utilizing AI-assisted development ("vibe coding") to rapidly ship products.  
-I focus on designing products, defining features, testing, debugging, and shipping working software.
-
-<!-- Social Links (Update URLs to uncomment) -->
-<!--
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00D2FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://github.com/Piyush-data"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
--->
+
+*Bridging the gap between rapid product development and rigorous software quality.*
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-I enjoy turning ideas into working software by combining **product thinking, software quality, AI-assisted development, rapid iteration,** and **continuous learning**. 
+I build robust software products by combining **product thinking, test automation, and AI-accelerated development**. 
 
-I may not write every line of code manually, but I excel at defining features, writing detailed requirements, reviewing AI-generated code, debugging, and testing applications to ensure they are robust and production-ready. My GitHub is my authentic builder portfolio—everything you see here represents real projects I have shipped and can confidently discuss.
+Rather than treating Quality Assurance as an afterthought, I integrate testing into the product lifecycle from day one. I leverage modern AI tools to accelerate prototyping and boilerplate generation, allowing me to focus my engineering efforts on defining strict requirements, designing scalable test architectures, debugging complex state issues, and ensuring production-ready reliability.
 
-**Currently Building:**
-- 🧠 Intelligent AI Agents & Automation Systems.
-- 🛠️ Developer Tools & Productivity Software.
-- 🧩 High-performance Browser Applications.
+**Current Focus:**
+- 🧪 **Test Automation:** Building end-to-end testing frameworks with Playwright and Jest.
+- ⚙️ **AI-Accelerated Engineering:** Utilizing LLMs to rapidly prototype browser extensions and productivity tools.
+- 🧩 **Product Delivery:** Taking features from ambiguous ideas to shipped, tested, and observable deployments.
 
 ---
 
-## 🚀 Featured Product: TabComet
+## 🏆 Featured Product
 
 <div align="center">
-  <!-- <img src="assets/logos/tabcomet_logo.png" alt="TabComet Logo" width="120" /> -->
-  <h3>TabComet - The Ultimate Space-Themed Tab Manager</h3>
-  <p><i>Navigate your tabs at lightspeed.</i></p>
+  <h3>TabComet - High-Performance Tab Manager</h3>
+  <p><i>A Chrome extension optimizing browser memory usage for power users.</i></p>
 
   <a href="https://chromewebstore.google.com/detail/tabcomet/ncmlkamjiheecocdfkaiemhaggokmjfe?hl=en">
     <img src="https://img.shields.io/badge/Available_on-Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
@@ -53,93 +40,65 @@ I may not write every line of code manually, but I excel at defining features, w
   <a href="https://github.com/Piyush-data/TabComet">
     <img src="https://img.shields.io/badge/View_Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
-  
   <br/><br/>
   
   <img src="assets/banner/TabComet_21-9.png" alt="TabComet Showcase" width="800" style="border-radius: 8px;" />
 </div>
 
-#### ✨ Core Features
-- **Session Restoration:** Instantly save and restore massive tab sessions without memory bloat (lazy-loading via `chrome.tabs.discard()`).
-- **Deep Search:** Instantly filter tabs by title or URL using optimized debounce algorithms.
-- **Data Portability:** Export and import sessions seamlessly as JSON.
-- **Premium UI:** Space-themed dark mode, glassmorphism, and smooth micro-animations.
-
-**Tech Stack:** JavaScript (ES6+), Manifest V3, Chrome Storage API, Jest, Playwright.
+#### ✨ Engineering Highlights
+- **Memory Optimization:** Implemented lazy-loading via `chrome.tabs.discard()` to instantly restore massive sessions without browser UI freezing.
+- **Performant State Management:** Engineered a debounced, highly-optimized search algorithm to filter hundreds of tabs with zero perceived latency.
+- **Automated Quality:** Comprehensive test coverage utilizing **Playwright** for E2E browser interactions and **Jest** for state logic validation.
+- **Tech Stack:** JavaScript (ES6+), Manifest V3, Chrome Storage API, Playwright, Jest.
 
 ---
 
-## 🛠️ Building Projects Using
+## 🛠️ Technical Arsenal
 
-### AI & Agents
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A0A0A?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Chrome AI APIs](https://img.shields.io/badge/Chrome_AI_APIs-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+### Quality Engineering & Testing
+![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Browser Extension Ecosystem
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Edge Extensions](https://img.shields.io/badge/Edge_Extensions-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
-![Manifest V3](https://img.shields.io/badge/Manifest_V3-FFCD46?style=for-the-badge&logo=google-chrome&logoColor=black)
-
-### Programming & Core Web
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Core Software Engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Quality Assurance
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6C37?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Test Planning](https://img.shields.io/badge/Test_Planning-4B0082?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-DC143C?style=for-the-badge&logo=jira&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)
-
-### Analytics & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Architecture & AI Tooling
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-FFCD46?style=for-the-badge&logo=google-chrome&logoColor=black)
+![Chrome AI APIs](https://img.shields.io/badge/Chrome_AI_APIs-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Workflows-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<!-- GitHub Stats (Uncomment once stats correctly generate for your username) -->
-<!--
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-data&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-data&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-data&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF&sideNums=c9d1d9&sideLabels=c9d1d9&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF" alt="GitHub Streak" width="48%" />
 </div>
+
+---
+
+## 🔮 In the Pipeline
+
+<details>
+  <summary><b>🛠️ Local AI Summarizer Agent</b></summary>
+  <br/>
+  A secure, privacy-first browser extension leveraging Chrome's built-in Gemini Nano model for zero-latency, client-side summarization (no cloud API calls).
+</details>
+
+<details>
+  <summary><b>🧪 QA Automation Helper</b></summary>
+  <br/>
+  A development tool that automatically generates structured Playwright test scripts by intelligently parsing DOM interactions during manual exploratory testing.
+</details>
 
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
--->
-
----
-
-## 🔮 What's Next (The Product Pipeline)
-
-<!-- Use this modular template to add future products! -->
-<details>
-  <summary><b>🛠️ Coming Soon: Local AI Summarizer Agent</b></summary>
-  <br/>
-  A secure, privacy-first browser extension that uses Chrome's built-in Gemini Nano model to summarize articles completely client-side without sending data to the cloud.
-</details>
-
-<details>
-  <summary><b>🧪 Coming Soon: QA Automation Helper</b></summary>
-  <br/>
-  An extension that automatically generates Playwright/Selenium test scripts based on your DOM interactions.
-</details>
-
----
-
-<div align="center">
-  <!-- <img src="https://profile-counter.glitch.me/Piyush-data/count.svg" alt="Visitor Count" /> -->
-  <br/><br/>
   <i>"Quality isn't just about finding bugs; it's about engineering products that don't have them in the first place."</i>
 </div>
