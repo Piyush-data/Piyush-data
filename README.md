@@ -39,7 +39,7 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <img src="assets/banner/TabComet_21-9.png" alt="TabComet Showcase" width="100%" style="border-radius: 8px;" />
+      <img src="assets/banner/TabComet_profile.png" alt="TabComet Showcase" width="100%" style="border-radius: 8px;" />
     </td>
     <td width="40%">
       <h3>TabComet</h3>
