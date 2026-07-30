@@ -1,82 +1,125 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />
+
 # Piyush Kumar
-**QA Automation Engineer & Product Builder**
 
-<p align="center">
-  <a href="https://github.com/Piyush-data"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Product+Builder;Test+Automation+Advocate;AI-Assisted+Developer" alt="Typing SVG" />
 
-*Building robust software products with a focus on automation and quality.*
+<br/>
 
+<a href="https://github.com/Piyush-data">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
 </div>
 
----
+### 🚀 About Me
 
-## 🚀 About Me
+<table width="100%">
+  <tr>
+    <td width="100%">
+      I build practical software products, focusing heavily on quality engineering and test automation. I leverage modern AI tools to accelerate my workflow, allowing me to concentrate on rigorous testing, complex state debugging, and scalable architecture.<br/><br/>
+      <b>My Approach:</b><br/>
+      ✅ <b>Quality First:</b> Integrating end-to-end testing into the product lifecycle from the beginning.<br/>
+      ✅ <b>AI-Assisted Workflow:</b> Utilizing AI to rapidly generate boilerplate and prototype features.<br/>
+      ✅ <b>Product Focus:</b> Delivering working, reliable applications rather than just writing code.
+    </td>
+  </tr>
+</table>
 
-I build practical software products, focusing heavily on quality engineering and test automation. I leverage modern AI tools to accelerate my workflow, allowing me to concentrate on rigorous testing, complex state debugging, and scalable architecture.
+<br/>
 
-**My Approach:**
-- **Quality First:** Integrating end-to-end testing into the product lifecycle from the beginning.
-- **AI-Assisted Workflow:** Utilizing AI to rapidly generate boilerplate and prototype features.
-- **Product Focus:** Delivering working, reliable applications rather than just writing code.
+### 🏆 Featured Product: TabComet
 
----
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <img src="assets/banner/TabComet_21-9.png" alt="TabComet Showcase" width="100%" style="border-radius: 8px;" />
+    </td>
+    <td width="40%">
+      <h3>TabComet</h3>
+      <i>High-Performance Tab Manager</i><br/>
+      <p>A Chrome extension optimizing browser memory usage for power users.</p>
+      <a href="https://chromewebstore.google.com/detail/tabcomet/ncmlkamjiheecocdfkaiemhaggokmjfe?hl=en">
+        <img src="https://img.shields.io/badge/Available_on-Chrome_Web_Store-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
+      </a>
+      <a href="https://github.com/Piyush-data/TabComet">
+        <img src="https://img.shields.io/badge/View_Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
+      <br/><br/>
+      <b>✨ Engineering Highlights</b><br/>
+      • <b>Memory Optimization:</b> Lazy-loading via <code>chrome.tabs.discard()</code>.<br/>
+      • <b>State Management:</b> Debounced search filtering.<br/>
+      • <b>Automated Quality:</b> Playwright E2E interactions.<br/>
+      • <b>Tech Stack:</b> JS, Manifest V3, Playwright.
+    </td>
+  </tr>
+</table>
 
-## 🏆 Featured Product
+<br/>
+
+### 🛠️ Technologies I've Built With
+
+<table width="100%">
+  <tr>
+    <th width="25%">🧪 Quality Engineering</th>
+    <th width="25%">💻 Core Engineering</th>
+    <th width="25%">⚙️ Automation & AI</th>
+    <th width="25%">🛠️ Workflow</th>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/Playwright-2E8B57?style=flat-square&logo=playwright&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Browser_Auto-000000?style=flat-square&logo=selenium&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AI_Workflows-000000?style=flat-square&logo=openai&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/MCP-4A154B?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🎯 Current Focus
+
+<table width="100%">
+  <tr>
+    <td>
+      <ul>
+        <li>🧪 <b>Test Automation:</b> Building robust end-to-end testing frameworks to automate browser extensions.</li>
+        <li>⚙️ <b>AI Integration:</b> Integrating Agentic workflows (MCP, n8n) to streamline QA and development processes.</li>
+        <li>🚀 <b>Product Refinement:</b> Refining TabComet based on real user feedback and expanding its test coverage.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📈 GitHub Analytics
 
 <div align="center">
-  <h3>TabComet - High-Performance Tab Manager</h3>
-  <p><i>A Chrome extension optimizing browser memory usage for power users.</i></p>
-
-  <a href="https://chromewebstore.google.com/detail/tabcomet/ncmlkamjiheecocdfkaiemhaggokmjfe?hl=en">
-    <img src="https://img.shields.io/badge/Available_on-Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
-  </a>
-  <a href="https://github.com/Piyush-data/TabComet">
-    <img src="https://img.shields.io/badge/View_Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-  </a>
-  <br/><br/>
-  
-  <img src="assets/banner/TabComet_21-9.png" alt="TabComet Showcase" width="800" style="border-radius: 8px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-data&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-data&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9&icon_color=00D2FF" alt="Top Languages" width="48%" />
 </div>
 
-#### ✨ Engineering Highlights
-- **Memory Optimization:** Implemented lazy-loading via `chrome.tabs.discard()` to instantly restore sessions.
-- **State Management:** Engineered a debounced search algorithm to filter hundreds of tabs efficiently.
-- **Automated Quality:** Extensive test coverage utilizing **Playwright** for E2E browser interactions.
-- **Tech Stack:** JavaScript (ES6+), Manifest V3, Chrome Storage API, Playwright.
-
----
-
-## 🛠️ Technologies I've Built With
-
-### Quality Engineering
-![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Browser Automation](https://img.shields.io/badge/Browser_Automation-000000?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Core Software Engineering
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Manifest V3](https://img.shields.io/badge/Manifest_V3-FFCD46?style=for-the-badge&logo=google-chrome&logoColor=black)
-
-### Automation & AI
-![AI Workflows](https://img.shields.io/badge/AI_Workflows-000000?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-4A154B?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Development Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-- Building robust end-to-end testing frameworks to automate browser extensions.
-- Integrating Agentic workflows (MCP, n8n) to streamline QA and development processes.
-- Refining TabComet based on real user feedback and expanding its test coverage.
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Piyush-data&color=00D2FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
