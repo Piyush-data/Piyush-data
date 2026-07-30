@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/banner/TabComet_21-9.png" alt="Piyush | Software Builder & AI Developer" width="100%" />
+<!-- Banner Placeholder (Upload assets/banner/banner.png to uncomment) -->
+<!-- <img src="assets/banner/banner.png" alt="Piyush | Product Builder & AI Developer" width="100%" /> -->
 
 # 🚀 Hello, I'm Piyush
 
@@ -55,7 +56,7 @@ I may not write every line of code manually, but I excel at defining features, w
   
   <br/><br/>
   
-  <!-- <img src="assets/screenshots/tabcomet_showcase.gif" alt="TabComet Demo" width="800" style="border-radius: 8px;" /> -->
+  <img src="assets/banner/TabComet_21-9.png" alt="TabComet Showcase" width="800" style="border-radius: 8px;" />
 </div>
 
 #### ✨ Core Features
